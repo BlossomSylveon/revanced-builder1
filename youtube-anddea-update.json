@@ -1,6 +1,6 @@
 {
-  "version": "20.05.46 (patches 3.15.0)",
-  "versionCode": 2,
-  "zipUrl": "https://github.com/BlossomSylveon/revanced-builder1/releases/download/2/youtube-revanced-anddea-magisk-v20.05.46-all.zip",
+  "version": "20.05.46 (patches 3.16.0)",
+  "versionCode": 4,
+  "zipUrl": "https://github.com/BlossomSylveon/revanced-builder1/releases/download/4/youtube-revanced-anddea-magisk-v20.05.46-all.zip",
   "changelog": "https://raw.githubusercontent.com/BlossomSylveon/revanced-builder1/update/build.md"
 }
