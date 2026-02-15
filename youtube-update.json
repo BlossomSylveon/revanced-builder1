@@ -1,6 +1,6 @@
 {
-  "version": "20.14.43 (patches 5.48.0)",
-  "versionCode": 3,
-  "zipUrl": "https://github.com/BlossomSylveon/revanced-builder1/releases/download/3/youtube-revanced-magisk-v20.14.43-all.zip",
+  "version": "20.14.43 (patches 5.50.1)",
+  "versionCode": 5,
+  "zipUrl": "https://github.com/BlossomSylveon/revanced-builder1/releases/download/5/youtube-revanced-magisk-v20.14.43-all.zip",
   "changelog": "https://raw.githubusercontent.com/BlossomSylveon/revanced-builder1/update/build.md"
 }
