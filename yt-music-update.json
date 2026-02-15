@@ -1,6 +1,6 @@
 {
-  "version": "8.10.52 (patches 5.50.1)",
-  "versionCode": 5,
-  "zipUrl": "https://github.com/BlossomSylveon/revanced-builder1/releases/download/5/yt-music-revanced-magisk-v8.10.52-arm64-v8a.zip",
+  "version": "8.10.52 (patches 5.48.0)",
+  "versionCode": 6,
+  "zipUrl": "https://github.com/BlossomSylveon/revanced-builder1/releases/download/6/yt-music-revanced-magisk-v8.10.52-arm64-v8a.zip",
   "changelog": "https://raw.githubusercontent.com/BlossomSylveon/revanced-builder1/update/build.md"
 }
